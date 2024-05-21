@@ -1,0 +1,1 @@
+tile-extruder --tileWidth 32 --tileHeight 32 --input fichier1 --output fichier2
