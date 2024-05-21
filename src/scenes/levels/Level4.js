@@ -38,11 +38,11 @@ export class Level4 extends Level
         // VOTRE CODE ICI: ////////////////////////////////
 
         // this.walkspeed est la vitesse de déplacement du joueur
-        this.walkSpeed = 500
+        this.walkSpeed = 300
         // this.jumpVelocity donne la hauteur du saut (l'impulsion)
         // La vitesse de "descente" est influencée par la gravité
         // Vous pouvez changer la valeur de gravité dans create(), ci-dessus
-        this.jumpVelocity = -600
+        this.jumpVelocity = -300
 
         // (fin de votre code)
 
